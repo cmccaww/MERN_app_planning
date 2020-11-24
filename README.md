@@ -56,15 +56,15 @@ The target audience for the app is the clients that have appointments and the ad
 
 ![Wireframe_login](./docs/login.png)
 
-![Wireframe_signup](./docs/signup.png)
-![Wireframe_dashboard1](./docs/dashDesk.png)
-![Wireframe_dashboard2](./docs/dashTab.png)
-![Wireframe_clientinfo1](./docs/cInfoDesk.png)
-![Wireframe_clientinfo2](./docs/cInfoMob.png)
-![Wireframe_clientappointments1](/docs/apptsDesk.png)
-![Wireframe_clientappointments2](/docs/apptsMob.png)
-![Wireframe_notifications](/docs/noteDesk.png)
-![Wireframe_adminview](/docs/adminDesk.png)
+![Wireframe_signUp](./docs/signup.png)
+![Wireframe_dashboard](./docs/dashDesk.png)
+![Wireframe_dashboard1](./docs/dashTab.png)
+![Wireframe_clientinfo](./docs/cInfoDesk.png)
+![Wireframe_clientinfo1](./docs/cInfoMob.png)
+![Wireframe_clientappointments](/docs/apptsDesk.png)
+![Wireframe_clientappointments1](/docs/apptsMob.png)
+![Wireframe_notifications1](/docs/noteDesk.png)
+![Wireframe_adminView](/docs/adminDesk.png)
 
 ## Trello board
 
