@@ -27,10 +27,10 @@ The target audience for the app is the clients that have appointments and the ad
 * Node
     
 ## Dataflow diagram
-
+![dataflow diagram](./docs/MERN_dataflow.png)
 
 ## Application Architecture diagram
-
+![MERN AAD](./docs/AAD_MERN.png)
 
 ## User Stories
 
@@ -54,6 +54,17 @@ The target audience for the app is the clients that have appointments and the ad
 
 ## Wireframes
 
+![Wireframe_login](./docs/login.png)
+![Wireframe_signup](./docs/signup.png)
+![Wireframe_dashboard1](./docs/dashDesk.png)
+![Wireframe_dashboard2](./docs/dashTab.png)
+![Wireframe_clientinfo1](./docs/cInfoDesk.png)
+![Wireframe_clientinfo2](./docs/cInfoMob.png)
+![Wireframe_clientappointments1](/docs/apptsDesk.png)
+![Wireframe_clientappointments2](/docs/apptsMob.png)
+![Wireframe_notifications](/docs/noteDesk.png)
+![Wireframe_adminview](/docs/adminDesk.png)
 
 ## Trello board
 
+![Trello_Board](/docs/Trello.png)
