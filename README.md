@@ -55,6 +55,7 @@ The target audience for the app is the clients that have appointments and the ad
 ## Wireframes
 
 ![Wireframe_login](./docs/login.png)
+
 ![Wireframe_signup](./docs/signup.png)
 ![Wireframe_dashboard1](./docs/dashDesk.png)
 ![Wireframe_dashboard2](./docs/dashTab.png)
