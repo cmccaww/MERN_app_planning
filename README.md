@@ -4,7 +4,7 @@ The aim for the MERN assessment is to create a Client Portal App for Clients of 
 
 ## Functionality / features
 
-The application would need to use a system of authentication by using a login system. The features of Login, Signup, Signout and Change Password have to be implemented. The packages used would be passport and bcrypt. There is also need of authorization to be implemented to distinguish between users (clients) and admin.
+The application would need to use a system of authentication by using a login system. The features of Login, Signup, Signout and Change Password have to be implemented. The bcrypt package has to be used to encrypt the users password on the database. There is also need of authorization to be implemented to distinguish between users (clients) and admin.
 
 Once the users are signed in, they can read and update the personal information. The data for this would be stored on mongo and have functions for CRUD operations. If information already exists in the database, the user entry is set with the initial value. When the user updates their information it both updates the mongo database and Cliniko.
 
