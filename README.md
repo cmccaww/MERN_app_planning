@@ -29,6 +29,11 @@ The target audience for the app is the clients that have appointments and the ad
 ## Dataflow diagram
 ![dataflow diagram](./docs/MERN_dataflow.png)
 
+## Flowcharts
+![flowchart](./docs/flowchartsMERN-Page-1.png)
+![flowchart](./docs/flowchartsMERN-Page-2.png)
+![flowchart](./docs/flowchartsMERN-Page-3.png)
+
 ## Application Architecture diagram
 ![MERN AAD](./docs/AAD_MERN.png)
 
