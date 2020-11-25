@@ -10,7 +10,7 @@ Once the users are signed in, they can read and update the personal information.
 
 The user is able to read their appointment information on the dashboard and the view all appointments page. The information will be available through the Cliniko API where it can be read. In the appointment page, they can create change/remove requests for their appointments. 
 
-Admin can receive notifications of change requests and contact the user with the information displayed.
+Admin can receive notifications of change requests and contact the user with the information displayed. Admin can change the status of the request sending a notification to the user portal.
 
 With the forum section of the app, there would be CRUD capabilities for users and admin to make threads and comments.
 Admin ability to pin a forum post, turn off posting on a thread, delete all users threads and posts, block a user from the forum.
@@ -64,11 +64,12 @@ The target audience for the app is the clients that have appointments and the ad
 
 5. Forum
 
-    An additional feature beyond the MVP would include a forum. Users and admin would be able to navigate to the forum from the right-side-nav-bar. Users and Admin can click on the 'new thread' button to create a new thread, 'comment' to comment on any existing thread, 'reply' to reply to an existing comment on a thread, and click on emoji's to 'react' to a thread, comment or reply. 
+    An additional feature beyond the MVP would include a forum. Users and admin would be able to navigate to the forum from the right-side-nav-bar. Users and Admin can click on the 'new thread' button to create a new thread, 'comment' to comment on any existing thread, 'reply' to reply to an existing comment on a thread, and click on emoji's to 'react' to a thread, comment, or reply. 
     Users and admin will also have the ability to 'bump' threads up or down the forum board, by clicking the up-arrow if they want the thread to move up, or the down-arrow if they think the thread should move down. The cumulative bumps across users will determine the position of a thread on the board.
-    Admin will also have the added buttons on threads, comments, and replies to 'pin' a it to the top of the board/section, turning commenting on or off on with 'pause/unpause', deleting thread, comments, and replies with 'delete', or blocking a user of the forum with 'block user'. Pop-ups will confirm or cancel any of these actions once clicked. When blocking a user there will also be a prompt to ask for a reason for blocking the user.
+    In the right-side-nav-bar users and admin can navigate to notifications, which will display notifications of comments and replies in response to a user thread, comment or reply. If a user is blocked from the forum, a notification will also appear here.
+    Admin will also have added buttons on threads, comments, and replies to 'pin' a them to the top of the board (thread level only), 'pause/unpause' to turn commenting on or off (thread level only), 'delete' for deleting threads, comments, or replies, and 'block user' to block a user from the forum. Pop-ups will confirm or cancel any of these actions once clicked. When blocking a user there will also be a prompt to ask for a reason for blocking the user.
     Admin will also be able to manage the forum users by clicking 'manage users' on the right-side-nav-bar where a list of all current forum users past and present exists. From here admin can block or delete a user, or delete all threads and comments of a user. When deleting a user there will also be a prompt to ask for a reason for deleting the user.
-    Admin can see a list of currently blocked users with the ability to unblock them by clicking 'blocked users' on the right-side-nav-bar.
+    Admin can see a list of currently blocked users, the date and reason they were blocked, with the ability to unblock them by clicking 'blocked users' on the right-side-nav-bar.
 
 ## Wireframes
 
@@ -83,6 +84,10 @@ The target audience for the app is the clients that have appointments and the ad
 ![Wireframe_clientappointments1](/docs/apptsMob.png)
 ![Wireframe_notifications1](/docs/noteDesk.png)
 ![Wireframe_adminView](/docs/adminDesk.png)
+![Wireframe_clientforum](/docs/cForumMob.png)
+![Wireframe_clientforum1](/docs/cForumDesk.png)
+![Wireframe_adminForum](/docs/aForumDesk.png)
+![Wireframe_adminForum1](/docs/aForumDesk1.png)
 
 ## Trello board
 
