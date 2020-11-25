@@ -82,7 +82,7 @@ The target audience for the app is the clients that have appointments and the ad
 ![Wireframe_clientinfo1](./docs/cInfoMob.png)
 ![Wireframe_clientappointments](/docs/apptsDesk.png)
 ![Wireframe_clientappointments1](/docs/apptsMob.png)
-![Wireframe_notifications1](/docs/noteDesk.png)
+![Wireframe_notifications1](/docs/noteDesk1.png)
 ![Wireframe_adminView](/docs/adminDesk.png)
 ![Wireframe_clientforum](/docs/cForumMob.png)
 ![Wireframe_clientforum1](/docs/cForumDesk.png)
