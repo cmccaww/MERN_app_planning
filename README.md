@@ -55,7 +55,7 @@ The target audience for the app is the clients that have appointments and the ad
 
     If a user sees an appointment that no longer suits them, they are able to submit a request to reschedule or cancel an appointment. This request can be made by navigating to the 'booked appointments' page and clicking 'Request to Edit/cancel' alongside the appointment that the user would like to change. The user is then be asked to confirm this decision. Once clicked, the request is sent to the administration team who will call the user back in order change the time of/cancel the appointment. 
     
-    Notifications
+    Notifications<br>
         The purpose of the notifications page is to alllow users to see all pending and completed requests for changes to their appointment(s). Requests are updated when the administration team changes the status from 'pending' to 'completed' via the admin login of the portal.
 
 4. Admin Portal
